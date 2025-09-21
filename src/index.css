@@ -38,7 +38,7 @@ img {
 }
 
 .categoryButton:hover {
-  background-color: #fdeb6b;;
+  background-color: #fdeb6b;
 }
 
 .categoryButton {
@@ -49,4 +49,16 @@ img {
 
 .icon {
   width: 20px;
+}
+
+button {
+  background-color: #fdeb6b;
+  margin-top: 20px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+p, h1, h2, button {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
 }
